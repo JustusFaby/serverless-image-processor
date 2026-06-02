@@ -14,6 +14,11 @@ When an image is uploaded to S3:
 
 ---
 
+## 🎥 Demo
+Check out the demo video here: [Serverless Image Processing Demo](https://www.dropbox.com/scl/fi/hphadt5zoymqoxyllqk9w/serverless-image-processing.mp4?rlkey=8bvdahko63rfw44cmjv5xktpg&st=yo4wdcmm&dl=0)
+
+---
+
 ## 🏗️ Architecture
 
 S3 (Input Bucket)
